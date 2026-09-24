@@ -1,0 +1,15 @@
+[project]
+name = "test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gensim>=4.4.0",
+    "jieba>=0.42.1",
+    "pillow>=12.3.0",
+    "psutil>=7.2.2",
+    "scikit-learn>=1.9.0",
+    "torch>=2.14.0",
+    "torchvision>=0.29.0",
+]
