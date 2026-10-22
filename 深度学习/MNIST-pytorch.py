@@ -6,8 +6,6 @@ from torch.optim.lr_scheduler import LRScheduler
 from torch.utils.data import DataLoader
 from torchvision import datasets, transforms
 
-from 深度学习.XOR问题 import total_loss
-
 
 # 创建优化器和学习率调度器
 def make_optimizer_and_scheduler(

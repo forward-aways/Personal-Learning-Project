@@ -46,4 +46,4 @@ def climb_3(n):
 
     return dp[n]
 
-print(climb_3(1000000))
+print(climb_3(100))
